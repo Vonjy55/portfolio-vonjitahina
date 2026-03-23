@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vonjitahina.com/sitemap.xml
+Sitemap: https://vonjy55.github.io/portfolio-vonjitahina/sitemap.xml
