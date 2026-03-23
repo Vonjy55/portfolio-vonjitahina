@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "im": "I'm",
+    "roles": "Python Developer, Full Stack Developer, Data Analyst",
+    "download_cv": "Download CV"
+  },
+  "about": {
+    "years": "Years",
+    "exp_title": "of working experience in Python, Web, IA and Data",
+    "desc1": "Passionate about designing high-impact digital solutions, I build and deploy robust web applications and data pipelines. My expertise includes Python and JavaScript — along with their frameworks — as well as data analysis and value creation.\n\nDetail-oriented, adaptable, and experienced in hybrid environments, I integrate easily into multidisciplinary teams, both on-site and remotely, to address each organization’s business challenges.",
+    "point1": "Autonomy and Rigor",
+    "point2": "Team Collaboration",
+    "point3": "Business Needs Analysis",
+    "btn_contact": "Contact Me",
+    "projects_completed": "Projects Completed",
+    "desc2": "Three companies, two countries, five years of experience — and just as many technical challenges tackled: automation, architecture migration, APIs, and Machine Learning. I turn complex business needs into reliable, maintainable, and long-lasting solutions.",
+    "stat_years": {
+      "val": "5 years",
+      "desc": "of professional experience"
+    },
+    "stat_countries": {
+      "val": "2 countries",
+      "desc": "Mauritius & Madagascar"
+    },
+    "stat_tech": {
+      "val": "10+",
+      "desc": "technologies mastered"
+    },
+    "companies": "COMPANIES"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "cat_lang_fw": "LANGUAGES & FRAMEWORKS",
+    "cat_data_infra": "DATA & INFRASTRUCTURE",
+    "db_title": "Databases",
+    "integration": "Integration",
+    "subtitle": "Complete mastery of the software development cycle, focusing on Python (Django/FastAPI) and JavaScript / PHP technologies, coupled with skills in Machine Learning and Data Analysis.",
+    "my_skills": "My Skills",
+    "tab_exp": "Experience",
+    "tab_edu": "Education",
+    "exp1_title": "Python Developer",
+    "exp1_dur": "3 years (On-site & Remote)",
+    "exp1_loc": "Mautourco, Mauritius",
+    "exp1_desc": "Design of automated systems for travel and fleet management, development of APIs for driver mobile applications, migration from Java JSP to Django, and application of Machine Learning for transport resource allocation.",
+    "exp2_title": "Python Developer",
+    "exp2_dur": "1 year (On-site)",
+    "exp2_loc": "BICI, Madagascar",
+    "exp2_desc": "Development and maintenance of robust REST APIs, troubleshooting software issues, and database administration to ensure the reliability and performance of client systems.",
+    "exp3_title": "Full Stack Developer",
+    "exp3_dur": "1 year",
+    "exp3_loc": "Numerika Center",
+    "exp3_desc": "Design and deployment of an interactive platform for business management and professional training, leading the full development lifecycle in close collaboration with stakeholders.",
+    "edu1_title": "Master of Science BIHAR - Big Data & AI",
+    "edu1_year": "2024",
+    "edu1_loc": "ESTIA, Institute of Technology France",
+    "edu1_desc": "Big Data Architecture, NLP, Computer Vision, Distributed Systems.",
+    "edu2_title": "Bachelor API Web & Design",
+    "edu2_year": "2021",
+    "edu2_loc": "IT University, Madagascar",
+    "edu2_desc": "n-tier web/mobile applications, SQL/NoSQL, Project Management.",
+    "automatisation": "Automation"
+  },
+  "services": {
+    "title": "Services I Offer",
+    "subtitle": "Comprehensive software development services tailored to your needs",
+    "s1_title": "Web Development",
+    "s1_desc": "Full-stack web development with Python (Django, FastAPI, Flask), PHP (Laravel), and JavaScript (Angular, Vue.js). From REST API backend to responsive frontend, I deliver scalable and maintainable solutions.",
+    "s2_title": "REST API Development",
+    "s2_desc": "Design, development and documentation of robust REST APIs (FastAPI, Django REST). Secure authentication, versioning, integration with third-party services and high-performance optimization.",
+    "s3_title": "AI & Machine Learning",
+    "s3_desc": "Building ML models with Scikit-learn, TensorFlow, Pandas and Numpy. Expertise in classification, prediction, NLP and computer vision applied to real-world business problematics.",
+    "s4_title": "IA & Automation",
+    "s4_desc": "Intelligent automation pipelines with n8n, Python scripts and AI agents (LLMs). Workflow orchestration to eliminate repetitive tasks, reduce costs and accelerate your business processes.",
+    "s5_title": "Data Visualization",
+    "s5_desc": "Transformation of raw data into actionable dashboards with Power BI, Pandas and Numpy. Data analysis, KPI definition and clear reporting to support informed decision-making."
+  },
+  "projects": {
+    "title": "My Projects",
+    "all": "All Projects"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "say_hello": "Say Hello",
+    "loc": "Location:",
+    "phone": "Phone:",
+    "follow": "Follow me:",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Leave a message here",
+    "send": "Send Message"
+  },
+  "footer": {
+    "rights": "All Right Reserved"
+  },
+  "seo": {
+    "title": "Ranjelison Vonjitahina Charles | Portfolio",
+    "description": "Discover the portfolio of Ranjelison Vonjitahina Charles: Software Engineer, Backend Developer (Python, API REST), Full Remote Developer specializing in IA automation and Data."
+  }
+}
