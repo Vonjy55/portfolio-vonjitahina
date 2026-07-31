@@ -28,7 +28,7 @@
                     <div class="col-md-6">
                         <div class="skill">
                             <div class="d-flex justify-content-between mb-2">
-                                <h6 class="fw-bold mb-0">JavaScript</h6>
+                                <h6 class="fw-bold mb-0">TypeScript / JavaScript</h6>
                                 <span class="fw-bold text-muted small">85%</span>
                             </div>
                             <div class="progress mb-2" style="height: 6px; border-radius: 10px;">

@@ -23,7 +23,7 @@
     "projects_completed": "Projets Réalisés",
     "desc2": "Trois entreprises, deux pays, cinq ans d'expérience — et autant de défis techniques relevés : automatisation, migration d'architecture, APIs, Machine Learning. Je transforme des besoins métier complexes en solutions fiables, maintenables et pensées pour durer.",
     "stat_years": {
-      "val": "5 ans",
+      "val": "+5 ans",
       "desc": "d'expérience professionnelle"
     },
     "stat_countries": {
@@ -31,7 +31,7 @@
       "desc": "Maurice & Madagascar"
     },
     "stat_tech": {
-      "val": "10+",
+      "val": "5+",
       "desc": "technologies maîtrisées"
     },
     "companies": "ENTREPRISES"
