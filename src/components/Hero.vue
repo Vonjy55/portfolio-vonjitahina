@@ -8,7 +8,7 @@
                 <h2 class="typed-text-output d-inline"></h2>
                 <div class="typed-text d-none">{{ $t('hero.roles') }}</div>
                 <div class="d-flex align-items-center pt-5">
-                    <a :href="cvUrl" target="_blank" download="CV-Ranjelison-Vonjitahina-BE.pdf" class="btn btn-primary py-3 px-4 me-5">{{ $t('hero.download_cv') }}</a>
+                    <a :href="cvUrl" target="_blank" :download="cvFileName" class="btn btn-primary py-3 px-4 me-5">{{ $t('hero.download_cv') }}</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -21,5 +21,15 @@
 </template>
 
 <script setup>
-const cvUrl = `${import.meta.env.BASE_URL}cv/CV-Ranjelison-Vonjitahina-BE.pdf`
+import { computed } from 'vue'
+import { useI18n } from 'vue-i18n'
+
+const { locale } = useI18n()
+
+const cvFileName = computed(() => (locale.value === 'fr' ? 'CV-FR.pdf' : 'CV-EN.pdf'))
+const cvUrl = computed(() => {
+  const cvFolder = locale.value === 'fr' ? 'FR' : 'EN'
+
+  return `${import.meta.env.BASE_URL}cv/${cvFolder}/${cvFileName.value}`
+})
 </script>
