@@ -58,7 +58,7 @@
                             </div>
                             <div>
                                 <h6 class="mb-0 fw-bold" style="font-size: 0.85rem; color: #343a40;">Mautourco</h6>
-                                <small class="text-muted d-block" style="font-size: 0.75rem;">Maurice • 3 ans</small>
+                                <small class="text-muted d-block" style="font-size: 0.75rem;">{{ $t('about.mautourco_experience') }}</small>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                             </div>
                             <div>
                                 <h6 class="mb-0 fw-bold" style="font-size: 0.85rem; color: #343a40;">BICI</h6>
-                                <small class="text-muted d-block" style="font-size: 0.75rem;">Madagascar • 1 an</small>
+                                <small class="text-muted d-block" style="font-size: 0.75rem;">{{ $t('about.bici_experience') }}</small>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                             </div>
                             <div>
                                 <h6 class="mb-0 fw-bold" style="font-size: 0.85rem; color: #343a40;">Numerika Center</h6>
-                                <small class="text-muted d-block" style="font-size: 0.75rem;">Antananarivo • 1 an</small>
+                                <small class="text-muted d-block" style="font-size: 0.75rem;">{{ $t('about.numerika_experience') }}</small>
                             </div>
                         </div>
                     </div>
